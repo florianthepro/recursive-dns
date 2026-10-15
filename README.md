@@ -84,6 +84,7 @@ Authoritative DNS Server
 RDNS verarbeitet ausschließlich DNS-Anfragen.
 
 Sämtlicher sonstiger Netzwerkverkehr wird unverändert durch vorhandene VPN-Lösungen verarbeitet.
+DNS-Auflösung darf nicht über ein VPN-Profil umgesetzt werden.
 
 <br>
 
