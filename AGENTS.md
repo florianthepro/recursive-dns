@@ -46,7 +46,6 @@
 ## Ziel
 
 Die Anwendung soll möglichst klein, einfach und ressourcenschonend bleiben.
-
 Sie soll genau eine Aufgabe erfüllen:
 
 DNS-Anfragen lokal rekursiv auflösen.
