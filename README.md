@@ -1,5 +1,4 @@
 # Recursive DNS
-<br>
 
 ```text
 Projektname: Recursive DNS
@@ -7,8 +6,6 @@ Repository:  recursive-dns
 CLI-Befehl:  rdns
 Kurzform:    RDNS
 ```
-
-<br>
 
 ## Ziel
 
@@ -20,8 +17,6 @@ Kein ISP DNS.
 Kein externer rekursiver DNS-Resolver.
 
 Das Gerät wird selbst zum rekursiven DNS-Resolver.
-
-<br>
 
 ## Architektur
 
@@ -57,8 +52,6 @@ TLD
 Authoritative DNS Server
 ```
 
-<br>
-
 ## VPN-Kompatibilität
 
 VPN-Funktionalität bleibt unverändert.
@@ -84,9 +77,8 @@ Authoritative DNS Server
 RDNS verarbeitet ausschließlich DNS-Anfragen.
 
 Sämtlicher sonstiger Netzwerkverkehr wird unverändert durch vorhandene VPN-Lösungen verarbeitet.
-DNS-Auflösung darf nicht über ein VPN-Profil umgesetzt werden.
 
-<br>
+DNS-Auflösung darf nicht über ein VPN-Profil umgesetzt werden.
 
 ## Eigenschaften
 
@@ -100,8 +92,6 @@ DNS-Auflösung darf nicht über ein VPN-Profil umgesetzt werden.
 - Keine Konten
 - Keine Cloud-Dienste
 - Keine Werbung
-
-<br>
 
 ## Endzustand
 
